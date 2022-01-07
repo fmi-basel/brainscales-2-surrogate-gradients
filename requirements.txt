@@ -1,0 +1,4 @@
+torch==1.9.1
+torchvision==0.10.0a0
+numpy==1.20.2
+h5py==3.2.1
