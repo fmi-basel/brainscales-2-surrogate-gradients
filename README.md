@@ -2,6 +2,7 @@
 
 **Important:** To run the code in this repository you need access to a neuromorphic BrainScaleS-2 system and the corresponding software stack.
 
+You can explore the examples provided here in a software-only mode by specifying the `--software-only` option.
 
 ## Dependencies
 
